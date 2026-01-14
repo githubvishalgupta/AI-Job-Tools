@@ -1,0 +1,5 @@
+{
+  "name": "CV Tailor AI",
+  "description": "Intelligently adapt your CV to any job posting using Gemini AI. Extract job details from a URL and optimize your resume in seconds.",
+  "requestFramePermissions": []
+}
